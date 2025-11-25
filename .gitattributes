@@ -1,3 +1,2 @@
-*.sql linguist-language=SQL
 *.csv linguist-vendored=true
-
+*.sql linguist-language=SQL
